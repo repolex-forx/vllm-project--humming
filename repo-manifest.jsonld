@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/humming/commit/f08e744fb1e7f11ee72413a4aebf1143e2d3512d",
       "git:hexsha": "f08e744fb1e7f11ee72413a4aebf1143e2d3512d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T07:31:34.297511+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/humming/commit/5848ef406fadf0fd99825cc2196ac2c90ecfc160",
